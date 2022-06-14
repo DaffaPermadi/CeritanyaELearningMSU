@@ -1,0 +1,85 @@
+.navbar-expand-lg .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    justify-content: flex-end;
+}
+
+.navbar{
+    background-color: #FC0000;
+}
+
+.navbar .btn{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+    padding: 1px 10px;
+    margin-right: 55px;
+    
+}
+
+.pengumuman img{
+    width: 800px;
+    border-radius: 20px;
+}
+
+.section-1 .container{
+    margin: 10px 50px;
+}
+
+.jadwal{
+    width: 25vw;
+}
+
+.jadwal .desc-jadwal{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -18px;
+}
+
+.jadwal-matkul h5,p {
+    color: black;
+    margin: 0px;
+}
+
+.jadwal-matkul p {
+    display: inline;
+    font-size: 17px;
+    
+}
+
+.sub-avail{
+    display: inline;
+    font-size: 15px;
+    color: #3A6CCD;
+}
+
+.tugas{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mata-kuliah .card, button{
+    border-radius: 20px;
+    filter: drop-shadow(0px 100px 80px rgba(0, 0, 0, 0.07)) drop-shadow(0px 41.7776px 33.4221px rgba(0, 0, 0, 0.0503198)) drop-shadow(0px 22.3363px 17.869px rgba(0, 0, 0, 0.0417275)) drop-shadow(0px 12.5216px 10.0172px rgba(0, 0, 0, 0.035)) drop-shadow(0px 6.6501px 5.32008px rgba(0, 0, 0, 0.0282725)) drop-shadow(0px 2.76726px 2.21381px rgba(0, 0, 0, 0.0196802));
+}
+
+.but-add p{
+    color: white;
+    
+}
+
+.but-add .card{
+    background-color: #5075BD;
+}
+
+.card h5{
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}
