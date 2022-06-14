@@ -1,0 +1,32 @@
+.description-page{
+    background-color: #FC0000;
+    color: white;
+}
+
+.description-page a{
+    color: white;
+    text-decoration: none;
+}
+
+.submission{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    width: 1080px;
+}
+
+.card ul{
+    list-style: none;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 20px;
+    line-height: 42px;
+}
+
+.red{
+    display: inline;
+    color: #FC0000;
+}
+
